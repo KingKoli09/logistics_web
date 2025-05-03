@@ -107,7 +107,7 @@ const Solutions = () => {
           <div className="w-full max-w-4xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
             <div className="text-center sm:translate-x-8 md:translate-x-12 lg:translate-x-16 transition-transform duration-300">
               <h1 className="text-5xl font-bold mb-8 leading-tight">
-                Our Logistics Solutions
+                Our Services
               </h1>
               <p className="text-2xl text-blue-100 leading-relaxed max-w-2xl mx-auto">
                 Comprehensive transportation and warehousing services
