@@ -19,12 +19,8 @@ const Warehouse = () => {
       details: [
         "MV Vessel Name",
         "East-In Marine Freight",
-        "C/O GLOBAL DTS CO. LTD",
         "120dong, 11, Yutongdanji 1-ro 97beon-gil",
         "Gangseo-gu, Busan, 46721 Korea",
-        "TEL : 82-51-711-0877",
-        "DIR : 82-70-4820-6749",
-        "Fax : 82-51-711-0878"
       ],
       image: "https://images.unsplash.com/photo-1534274867514-d5b47ef89ed7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
@@ -33,10 +29,7 @@ const Warehouse = () => {
       details: [
         "MV Vessel Name",
         "East-In Marine Freight",
-        "C/O GOLD COAST SHIPPING LLC W 171,",
         "DMC DUBAI -UAE PO BOX 119034",
-        "PIC: IBRAHIM SHAHIL MOB: +971 52 3512704",
-        "TEL: +971-4-5834999"
       ],
       image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
@@ -45,11 +38,8 @@ const Warehouse = () => {
       details: [
         "MV Vessel Name",
         "East-In Marine Freight",
-        "C/O SEA ZEAL MARINE SERVICE COMPANY LTD.",
         "Warehouse 3, No 103, ShunYang Road, Huaqiao Town.",
-        "Kunshan City 215332, Jiangsu Province, China.",
-        "Attention : Semmi +86 13915742461",
-        "Urgent case : Floree +86 13917933786"
+        "Kunshan City 215332, Jiangsu Province, China."
       ],
       image: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
@@ -58,7 +48,6 @@ const Warehouse = () => {
       details: [
         "MV Vessel Name",
         "East-In Marine Freight",
-        "C/O STRABE LOGISTICS PRIVATE LIMITED",
         "95 AIRPORT CARGO RD, #02-224",
         "SATS AIRFREIGHT TERMINAL 2,",
         "SINGAPORE 819461"
@@ -70,7 +59,6 @@ const Warehouse = () => {
       details: [
         "MV Vessel Name",
         "East-In Marine Freight",
-        "C/o Scan Global Logistics - Marine Logistics",
         "Kaapstadweg 36A",
         "NL-1047 HG Amsterdam",
         "Netherlands",
@@ -85,7 +73,6 @@ const Warehouse = () => {
       details: [
         "MV Vessel Name",
         "East-In Marine Freight",
-        "Scan Global Logistics A/S",
         "Jernholmen 49",
         "DK-2650 Hvidovre",
         "Denmark",
