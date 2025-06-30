@@ -6,7 +6,7 @@ const Footer = () => {
 
   const footerLinks = {
     company: [
-      { text: 'About Us', path: '/about' },
+      { text: 'About Us', path: '/about-us' },
       { text: 'Our Solutions', path: '/solutions' },
       { text: 'Contact', path: '/contact' }
     ],
