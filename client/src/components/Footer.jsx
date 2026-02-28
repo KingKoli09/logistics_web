@@ -20,7 +20,7 @@ const Footer = () => {
     contact: [
       { text: 'operations@east-in.com', path: 'mailto:operations@east-in.com', icon: '📧' },
       { text: '+91 7021821956', path: 'tel:+91 7021821956', icon: '📞' },
-      { text: 'JNPT Uran, Navi Mumbai', path: 'https://maps.google.com/?q=JNPT+Uran+Navi+Mumbai', icon: '📍' }
+      { text: 'East-In Marine Freight Office G -1 , Plot No D3, Sect 14,CBD Belapur, Navi Mumbai 400614 ', path: 'https://maps.google.com/?q=JNPT+Uran+Navi+Mumbai', icon: '📍' }
     ]
   };
 

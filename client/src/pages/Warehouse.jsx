@@ -38,8 +38,8 @@ const Warehouse = () => {
       details: [
         "MV Vessel Name",
         "East-In Marine Freight",
-        "Warehouse 3, No 103, ShunYang Road, Huaqiao Town.",
-        "Kunshan City 215332, Jiangsu Province, China."
+        "NO.415,ZHENGMIN",
+        "ROAD,SHANGHAI 200433 ,CHINA."
       ],
       image: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
